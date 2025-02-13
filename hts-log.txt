@@ -1,6 +1,6 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Sep 2024 04:49:03 at https://optibasetrades.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+ProDevs3.49-2+htsswf+htsjava launched on Fri, 27 Sep 2024 04:49:03 at https://optibasetrades.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://optibasetrades.com/ -O1 "C:\My Web Sites\optibasetrades." +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winProDevs -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; ProDevs 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by ProDevs Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://optibasetrades.com/ -O1 "C:\My Web Sites\optibasetrades." +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -76,7 +76,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 696 links scanned, 665 files written (47994063 bytes overall) [26591685 bytes received at 81320 bytes/sec], 33296685 bytes transferred using HTTP compression in 338 files, ratio 34%, 13.2 requests per connection
+ProDevs Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 696 links scanned, 665 files written (47994063 bytes overall) [26591685 bytes received at 81320 bytes/sec], 33296685 bytes transferred using HTTP compression in 338 files, ratio 34%, 13.2 requests per connection
 
 (30 errors, 0 warnings, 0 messages)
 
