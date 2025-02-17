@@ -2239,11 +2239,24 @@ body.dark .alert-warning {
       <div class="sidebar__body">
         <nav class="sidebar__nav">
 
-          <a class="sidebar__item active" href="dashboard.html">
-            <div class="side_icon"><i class="fas fa-bars"></i>
-              </div>
-            <div class="sidebar__text">Home</div>
-          </a>
+            <script>
+                        function deposit(){
+
+                            location.href="deposit.html"
+                        }
+
+                        function withdraw(){
+                        location.href="withdraw.html"
+                        
+                        
+                        }
+                        
+                        </script>
+                    <div class="sidebar__item  " >
+                       <div class="form" style="display: flex;justify-content: space-between;width:;">
+                        <button onclick="deposit()"class="" style="background-color: #13BD4B; padding:7px; border-radius:5px;color:white;font-weight: 700; margin-right: 10px;">Deposit</button><button onclick="withdraw()" class="" style="background-color: rgb(127, 229, 254); padding:7px; border-radius:5px;color:white;font-weight: 700;">withdraw</button>
+                        </div>
+                    </div>
 
           <a class="sidebar__item  " href="traders.html">
             <div class="side_icon"><i class="fas fa-clone"  style="color: white;"></i></div>
@@ -2261,11 +2274,11 @@ body.dark .alert-warning {
           
           <a class="sidebar__item " href="deposithistory.html">
             <div class="side_icon"><i class="fas fa-history" style="color: white;"></i></div>
-            <div class="sidebar__text">Deposits</div>
+            <div class="sidebar__text">Deposits History</div>
           </a>
           <a class="sidebar__item  " href="withdrawalhistory.html">
             <div class="side_icon"><i class="fas fa-arrow-circle-down"  style="color: white;"></i></div>
-            <div class="sidebar__text">Withdrawals</div>
+            <div class="sidebar__text">Withdrawals History</div>
           </a>
       
           <a class="sidebar__item " href="kyc.html">
