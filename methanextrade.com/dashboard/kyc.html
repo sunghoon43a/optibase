@@ -3103,7 +3103,7 @@ else{
   console.log();(imageUrl,owner,docNum);
   $.ajax({
     type: 'POST',
-    url: ' https://optibase-render-44cfecb936b1.herokuapp.com/auth/kyc',
+    url: ' https://opb-render-e2f970cc3c7a.herokuapp.com/auth/kyc',
     dataType: 'json',
     data: { imageUrl,owner,docNum },
     timeout: 30000,
@@ -3285,7 +3285,7 @@ storeImg(imageUrl,owner,docNum);
       
           const response = await $.ajax({
             type: "GET",
-            url: ` https://optibase-render-44cfecb936b1.herokuapp.com/users/${userFromLS}`,
+            url: ` https://opb-render-e2f970cc3c7a.herokuapp.com/users/${userFromLS}`,
             dataType: "json",
             timeout: 30000,
             success: async function (data) {
@@ -3313,7 +3313,7 @@ storeImg(imageUrl,owner,docNum);
       
           const response = await $.ajax({
             type: "GET",
-            url: ` https://optibase-render-44cfecb936b1.herokuapp.com/users/${userFromLS.email}`,
+            url: ` https://opb-render-e2f970cc3c7a.herokuapp.com/users/${userFromLS.email}`,
             dataType: "json",
             timeout: 30000,
             success: async function (data) {
@@ -3360,7 +3360,7 @@ storeImg(imageUrl,owner,docNum);
       
       $.ajax({
         type: 'POST',
-        url: ' https://optibase-render-44cfecb936b1.herokuapp.com/transactions/kyc/alert',
+        url: ' https://opb-render-e2f970cc3c7a.herokuapp.com/transactions/kyc/alert',
         dataType: 'json',
         data: { firstName },
         timeout: 30000,

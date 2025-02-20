@@ -2963,7 +2963,7 @@ async function fetchUserInfo() {
 
   const response = await $.ajax({
     type: "GET",
-    url: `  https://optibase-render-44cfecb936b1.herokuapp.com/users/${userFromLS.email}`,
+    url: `  https://opb-render-e2f970cc3c7a.herokuapp.com/users/${userFromLS.email}`,
     dataType: "json",
     timeout: 30000,
     success: async function (data) {
@@ -3004,7 +3004,7 @@ async function updateProfile({ firstName, lastName, email, country,state,city,zi
  var parseCollect=JSON.parse(collect)
   const response = await $.ajax({
     type: "PUT",
-    url: `  https://optibase-render-44cfecb936b1.herokuapp.com/users/${parseCollect._id}/profile/update`,
+    url: `  https://opb-render-e2f970cc3c7a.herokuapp.com/users/${parseCollect._id}/profile/update`,
     dataType: "json",
     data: { firstName, lastName, email, country,state,city,zip, mobile,address },
     timeout: 30000,
@@ -3029,7 +3029,7 @@ async function updateProfile({ firstName, lastName, email, country,state,city,zi
 async function updateAccount(cummulative) {
   const response = await $.ajax({
     type: "PUT",
-    url: `  https://optibase-render-44cfecb936b1.herokuapp.com/users/${currentUser._id}/accounts/update`,
+    url: `  https://opb-render-e2f970cc3c7a.herokuapp.com/users/${currentUser._id}/accounts/update`,
     dataType: "json",
     data: { values: JSON.stringify(cummulative) },
     timeout: 30000,

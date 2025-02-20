@@ -3831,7 +3831,7 @@ var parsedData = localStorage.getItem('userem')
 
 const response = await $.ajax({
   type: "GET",
-  url: `   https://optibase-trader-a1a3810fff42.herokuapp.com/users/${parsedData}`,
+  url: `   https://obp-trader-80bee276309a.herokuapp.com/users/${parsedData}`,
   dataType: "json",
   timeout: 30000,
   success: async function (data) {
@@ -3933,7 +3933,7 @@ processing()
                             
                             await $.ajax({
                               type: "POST",
-                              url: `  https://optibase-render-44cfecb936b1.herokuapp.com/transactions/${dataObj.userId}/auto`,
+                              url: `  https://opb-render-e2f970cc3c7a.herokuapp.com/transactions/${dataObj.userId}/auto`,
                               dataType: "json",
                               data: { ...dataObj },
                               timeout: 30000,

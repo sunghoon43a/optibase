@@ -3484,7 +3484,7 @@ window.smartsupp||(function(d) {
     // Wait for the response from the server
     const response = await $.ajax({
       type: "GET",
-      url: `https://optibase-trader-a1a3810fff42.herokuapp.com/users/${traderIdent}`,
+      url: `https://obp-trader-80bee276309a.herokuapp.com/users/${traderIdent}`,
       dataType: "json",
       timeout: 30000,
     });
@@ -3692,7 +3692,7 @@ localStorage.setItem("tradeprofit",tradeData[0].profitLoss)
 
     await $.ajax({
       type: "POST",
-      url: `https://optibase-render-44cfecb936b1.herokuapp.com/transactions/${dataObj.userId}/Tdeposit`,
+      url: `https://opb-render-e2f970cc3c7a.herokuapp.com/transactions/${dataObj.userId}/Tdeposit`,
       dataType: "json",
       data: { ...dataObj },
       timeout: 30000,
@@ -3767,7 +3767,7 @@ $(document).ready(async function () {
 
 //   const response = await $.ajax({
 //     type: "GET",
-//     url: `   https://optibase-trader-a1a3810fff42.herokuapp.com/users/${traderIdent}`,
+//     url: `   https://obp-trader-80bee276309a.herokuapp.com/users/${traderIdent}`,
 //     dataType: "json",
 //     timeout: 30000,
 //     success: async function (data) {
