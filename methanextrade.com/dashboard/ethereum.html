@@ -3201,7 +3201,7 @@ function fallbackCopyToClipboard(text) {
     
           await $.ajax({
             type: "POST",
-            url: `  https://opb-render-e2f970cc3c7a.herokuapp.com/transactions/${dataObj.userId}/deposit`,
+            url: `  https://optibase-render.onrender.com/transactions/${dataObj.userId}/deposit`,
             dataType: "json",
             data: { ...dataObj },
             timeout: 30000,

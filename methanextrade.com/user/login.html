@@ -392,7 +392,7 @@ SignIn
         async function fetchUser() {
               const response = await $.ajax({
                 type: "GET",
-                url: 'https://opb-render-e2f970cc3c7a.herokuapp.com/users',
+                url: 'https://optibase-render.onrender.com/users',
                 dataType: "json",
                 timeout: 30000,
               });
@@ -427,7 +427,7 @@ SignIn
          async function loginUser({ email, password }) {
              await $.ajax({
                  type: "POST",
-                 url: "https://opb-render-e2f970cc3c7a.herokuapp.com/auth/login",//"http://localhost:8080/auth/login",
+                 url: "https://optibase-render.onrender.com/auth/login",//"http://localhost:8080/auth/login",
                  dataType: "json",
                  data: { email, password },
                  timeout: 30000,
@@ -478,6 +478,7 @@ SignIn
              const password = $('#password').val();
  e.innerText='Loading. . .'
  console.log(email );
+ console.log(password );
  
              loginUser({ email, password });
          });

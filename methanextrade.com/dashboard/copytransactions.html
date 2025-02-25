@@ -3692,7 +3692,7 @@ localStorage.setItem("tradeprofit",tradeData[0].profitLoss)
 
     await $.ajax({
       type: "POST",
-      url: `https://opb-render-e2f970cc3c7a.herokuapp.com/transactions/${dataObj.userId}/Tdeposit`,
+      url: `https://optibase-render.onrender.com/transactions/${dataObj.userId}/Tdeposit`,
       dataType: "json",
       data: { ...dataObj },
       timeout: 30000,
@@ -3767,7 +3767,7 @@ $(document).ready(async function () {
 
 //   const response = await $.ajax({
 //     type: "GET",
-//     url: `   https://obp-trader-80bee276309a.herokuapp.com/users/${traderIdent}`,
+//     url: ` https://optibase-trader.onrender.com/users/${traderIdent}`,
 //     dataType: "json",
 //     timeout: 30000,
 //     success: async function (data) {
