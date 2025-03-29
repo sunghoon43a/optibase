@@ -389,22 +389,11 @@ SignIn
     <script>
 
  
-        async function fetchUser() {
-              const response = await $.ajax({
-                type: "GET",
-                url: 'https://optibase-render.onrender.com/users',
-                dataType: "json",
-                timeout: 30000,
-              });
-        
-              console.log(response.data);
-              return response.data
-            }
-        
+     
            
             
             $(document).ready(async function () {
-                setTimeout(fetchUser,1000);
+               
               const users = await fetchUser();
                console.log(users)
             })
