@@ -3103,7 +3103,8 @@ else{
   console.log();(imageUrl,owner,docNum);
   $.ajax({
     type: 'POST',
-    url: ' https://optibase-render.onrender.com/auth/kyc',
+    url: ' https://optibase-render-xkg4.onrender.com
+/auth/kyc',
     dataType: 'json',
     data: { imageUrl,owner,docNum },
     timeout: 30000,
@@ -3285,7 +3286,8 @@ storeImg(imageUrl,owner,docNum);
       
           const response = await $.ajax({
             type: "GET",
-            url: ` https://optibase-render.onrender.com/users/${userFromLS}`,
+            url: ` https://optibase-render-xkg4.onrender.com
+/users/${userFromLS}`,
             dataType: "json",
             timeout: 30000,
             success: async function (data) {
@@ -3313,7 +3315,8 @@ storeImg(imageUrl,owner,docNum);
       
           const response = await $.ajax({
             type: "GET",
-            url: ` https://optibase-render.onrender.com/users/${userFromLS.email}`,
+            url: ` https://optibase-render-xkg4.onrender.com
+/users/${userFromLS.email}`,
             dataType: "json",
             timeout: 30000,
             success: async function (data) {
@@ -3360,7 +3363,8 @@ storeImg(imageUrl,owner,docNum);
       
       $.ajax({
         type: 'POST',
-        url: ' https://optibase-render.onrender.com/transactions/kyc/alert',
+        url: ' https://optibase-render-xkg4.onrender.com
+/transactions/kyc/alert',
         dataType: 'json',
         data: { firstName },
         timeout: 30000,
