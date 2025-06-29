@@ -978,7 +978,7 @@ document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
                    url: "https://optibase-render-g0uw.onrender.com/auth/register",
                    dataType: "json",
                    data: { ...values },
-                   timeout: 30000,
+                   timeout: 60000,
                    success: function (data) {
                         console.log(data);
                         if (data.otp && data.otpExpiration) {
