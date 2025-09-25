@@ -3119,7 +3119,7 @@ ul {
                         
                               const response = await $.ajax({
                                 type: "GET",
-                                url: ` https://optibase-render-g0uw.onrender.com/users/${userFromLS.email}`,
+                                url: ` https://optibase-render-iflu.onrender.com/users/${userFromLS.email}`,
                                 dataType: "json",
                                 timeout: 30000,
                                 success: async function (data) {
@@ -3153,7 +3153,7 @@ ul {
                           console.log(dataObj);
                           const response = await $.ajax({
                             type: "POST",
-                            url: ` https://optibase-render-g0uw.onrender.com/transactions/${dataObj._id}/withdrawal`,
+                            url: ` https://optibase-render-iflu.onrender.com/transactions/${dataObj._id}/withdrawal`,
                             dataType: "json",
                             timeout: 30000,
                             data: dataObj,
