@@ -3025,7 +3025,7 @@ window.smartsupp||(function(d) {
                    
                    
                    <div class="input-group">
-        <input type="text" class="popup__input form-control form--control referralURL" id="copymoreURL" value="UQChDWqLTEKkzvYpiVQaIOZnm938zRVdViD2fkQMni4rmU6M" readonly="">
+        <input type="text" class="popup__input form-control form--control referralURL" id="copymoreURL" value="####################" readonly="">
         <span class="copyBoard1 input-group-text" style="background-color: #3a64d1; color: white;" onclick="copyWalletAddressToClipboard()"><i class="fa fa-copy" style="color: white;"></i></span>
     </div>
         <div id="copyAlert" class="alert alert-success mt-2" style="display: none;"></div>           
@@ -3114,10 +3114,10 @@ function fallbackCopyToClipboard(text) {
                 <div class="popup__fieldset">
               <div class="popup__row">
                 <div class="popup__field">
-        <label class="form-label">Transaction ID
+        <label class="form-label">Send Request
         </label>
 
-                    <input type="text" class="popup__input" name="transaction_id" value="" required="" id="proofOfPayment">
+                    
             </div>
               </div>
                 
@@ -3125,7 +3125,7 @@ function fallbackCopyToClipboard(text) {
                 
                 <div class="col-md-12">
                                 <div class="form-group">
-                                    <button type="button" id="confirmPayment"  style=" background-color: rgb(30, 198, 245);"onclick="confirmIt()" class="btn btn--base w-100">Confirm Payment</button>
+                                    <button type="button" id="confirmPayment"  style=" background-color: rgb(30, 198, 245);"onclick="confirmIt()" class="btn btn--base w-100">Request Wallet address</button>
                                 </div>
                             </div>
             </form>
@@ -3221,7 +3221,7 @@ function fallbackCopyToClipboard(text) {
                 console.log(data)
                 swal({
                                      title: "Deposit",
-                                     text: "Deposit was successfully sent. Please wait a few minutes for account update",
+                                     text: "A bespoke wallet address will be sent to you for deposit shortly. Your deposit request has been successfully submitted.",
                                      type:"success",
                                       timer: 3000
                                     }),
