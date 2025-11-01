@@ -1,19 +1,42 @@
+<<<<<<< HEAD
 ProDevs3.49-2+htsswf+htsjava launched on Fri, 27 Sep 2024 04:49:03 at https://tradaxlinktrades.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
 (winProDevs -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; ProDevs 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by ProDevs Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tradaxlinktrades.com/ -O1 "C:\My Web Sites\tradaxlinktrades." +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+=======
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Feb 2025 10:44:57 at https://Tradaxlink.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+TradaxlinkTradaxlink
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copytradementor.com/ -O1 "C:\webby\copytradementor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+>>>>>>> e258f8d3d969932ce563ad7d9bdaf43e0e9ecb42
 
 
 
 Information, Warnings and Errors reported for this mirror:
 
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-
-	such as username/password authentication for websites mirrored in this project
+note:	the hts-log.txt file, and hts-cache folder, mTradaxlinkitive information,Tradaxlink
+TradaxlinkTradaxlink
+	such as username/password authentication for websites mirrored iTradaxlinkTradaxlink
 
 	do not share these files/folders if you want these information to remain private
+TradaxlinkTradaxlink
+TradaxlinkTradaxlink
+
+10:47:43	Error: 	"Not Found" (404) at link https://copytradementor.com/s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js (from https://copytradementor.com/)
+
+10:47:43	Error: 	"Not Found" (404) at link https://copytradementor.com/translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit (from https://copytradementor.com/)
+
+10:47:43	Error: 	"Error when decompressing" (-1) at link https://copytradementor.com/“https://www.smartsupp.com” (from https://copytradementor.com/)
+
+10:48:12	Warning: 	Unable to test https://iqstocktrade.com/fonts.googleapis.com/css24d10.css?family=Lora:ital,wght@1,400;1,500&family=Maven+Pro:wght@400;500;600&display=swap (loop to same filename)
+
+10:48:12	Warning: 	link is probably looping, type unknown, aborting: https://iqstocktrade.com/fonts.googleapis.com/css24d10.css?family=Lora:ital,wght@1,400;1,500&family=Maven+Pro:wght@400;500;600&display=swap
+
+10:48:14	Error: 	"Not Found" (404) at link https://copytradementor.com/fonts.gstatic.com/index.html (from https://copytradementor.com/main/dashboard/css/lib/animate.html)
+
+10:48:14	Error: 	"Not Found" (404) at link https://copytradementor.com/fonts.googleapis.com/css261f2.css?family=Nunito&display=swap (from https://copytradementor.com/main/dashboard/css/lib/animate.html)
 
 
 
+<<<<<<< HEAD
 04:52:46	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/String(location (from https://tradaxlinktrades.com/)
 
 04:52:46	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/e (from https://tradaxlinktrades.com/)
@@ -79,4 +102,9 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 ProDevs Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 696 links scanned, 665 files written (47994063 bytes overall) [26591685 bytes received at 81320 bytes/sec], 33296685 bytes transferred using HTTP compression in 338 files, ratio 34%, 13.2 requests per connection
 
 (30 errors, 0 warnings, 0 messages)
+=======
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 17 seconds : 113 links scanned, 107 files written (13096149 bytes overall) [11824632 bytes received at 60023 bytes/sec], 1731378 bytes transferred using HTTP compression in 79 files, ratio 22%, 3.9 requests per connection
+
+(5 errors, 2 warnings, 0 messages)
+>>>>>>> e258f8d3d969932ce563ad7d9bdaf43e0e9ecb42
 
