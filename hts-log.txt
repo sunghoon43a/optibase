@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-ProDevs3.49-2+htsswf+htsjava launched on Fri, 27 Sep 2024 04:49:03 at https://tradaxlinktrades.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-
-(winProDevs -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; ProDevs 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by ProDevs Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tradaxlinktrades.com/ -O1 "C:\My Web Sites\tradaxlinktrades." +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-=======
 HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Feb 2025 10:44:57 at https://Tradaxlink.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 TradaxlinkTradaxlink
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copytradementor.com/ -O1 "C:\webby\copytradementor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
->>>>>>> e258f8d3d969932ce563ad7d9bdaf43e0e9ecb42
 
 
 
@@ -36,75 +30,7 @@ TradaxlinkTradaxlink
 
 
 
-<<<<<<< HEAD
-04:52:46	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/String(location (from https://tradaxlinktrades.com/)
-
-04:52:46	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/e (from https://tradaxlinktrades.com/)
-
-04:52:46	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/GET (from https://tradaxlinktrades.com/)
-
-04:53:18	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/regulations (from https://tradaxlinktrades.com/)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://tradaxlinktrades.com/)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strongfront/new/bullet-point-gradient-outline.svg (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/_next/static/css/0375a78709d283d1.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/ExpertOption/eo_icon@2x.webp (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/9732.e0ee144568f8decd6585.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/images/common/fixed-bars/cookie.png (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/style2.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/images/main-page/help-section/arrow.svg (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/style2.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/images/new-main-page/try-copy-trading/arrow.svg (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/style2.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/images/partners-page/partners-blog/calendar.svg (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/style2.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/update/how-does-autocopy/roadmap/btn-icon1.png (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/style3.css)
-
-04:53:38	Error: 	"Not Found" (404) at link https://lordicon.com/icons/wired/flat/193-bell-notification.gif (from https://tradaxlinktrades.com/overview)
-
-04:53:49	Error: 	"Method Not Allowed" (405) at link https://tradaxlinktrades.com/user/check-mail (from https://tradaxlinktrades.com/user/register)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/spreads target= (from https://tradaxlinktrades.com/range-of-markets)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/cdn-cgi/l/email-protection (from https://tradaxlinktrades.com/trading-hours)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strong/plugins/global/fonts/bootstrap-icons/bootstrap-iconsï¹1fa40e8900654d2863d011707b9fb6f2.woff2 (from https://tradaxlinktrades.com/frontcss/assets/strong/plugins/global/plugins.bundle.css)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strong/plugins/global/fonts/bootstrap-icons/bootstrap-iconsï¹1fa40e8900654d2863d011707b9fb6f2.woff (from https://tradaxlinktrades.com/frontcss/assets/strong/plugins/global/plugins.bundle.css)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/tablet.5ed26c209de7e1b5845d.webp (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/16120.febfda83def6ad1aa74c.css)
-
-04:54:07	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/desktop.48bb0acc31aeb2422416.webp (from https://tradaxlinktrades.com/frontcss/assets/strongfront/new/static/bundles/16120.febfda83def6ad1aa74c.css)
-
-04:54:27	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/"https://d1fyjtrsl71uh.cloudfront.net/images/background-images/online-forex-trading-currency.jpg" (from https://tradaxlinktrades.com/forex)
-
-04:54:27	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/"https://d1fyjtrsl71uh.cloudfront.net/images/background-images/online-forex-trading-backround-price.jpg" (from https://tradaxlinktrades.com/forex)
-
-04:54:27	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/"https://d1fyjtrsl71uh.cloudfront.net/images/background-images/online-forex-trading-backround_currency_trading.jpg" (from https://tradaxlinktrades.com/forex)
-
-04:54:27	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/"https://d1fyjtrsl71uh.cloudfront.net/images/background-images/online-forex-trading-backround-forex-brokers.jpg" (from https://tradaxlinktrades.com/forex)
-
-04:54:27	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/"https://d1fyjtrsl71uh.cloudfront.net/images/background-images/online-forex-trading-forex-as-investment.jpg" (from https://tradaxlinktrades.com/forex)
-
-04:54:30	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/assets/templates/invester/css/lib/fonts/slick.eot (from https://tradaxlinktrades.com/assets/templates/invester/css/lib/slick.css)
-
-04:54:30	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/assets/templates/invester/css/lib/fonts/slick.eot? (from https://tradaxlinktrades.com/assets/templates/invester/css/lib/slick.css)
-
-04:54:30	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/assets/templates/invester/css/lib/fonts/slick.woff (from https://tradaxlinktrades.com/assets/templates/invester/css/lib/slick.css)
-
-04:54:30	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/assets/templates/invester/css/lib/fonts/slick.ttf (from https://tradaxlinktrades.com/assets/templates/invester/css/lib/slick.css)
-
-04:54:30	Error: 	"Not Found" (404) at link https://tradaxlinktrades.com/assets/templates/invester/css/lib/fonts/slick.svg (from https://tradaxlinktrades.com/assets/templates/invester/css/lib/slick.css)
-
-
-
-ProDevs Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 696 links scanned, 665 files written (47994063 bytes overall) [26591685 bytes received at 81320 bytes/sec], 33296685 bytes transferred using HTTP compression in 338 files, ratio 34%, 13.2 requests per connection
-
-(30 errors, 0 warnings, 0 messages)
-=======
 HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 17 seconds : 113 links scanned, 107 files written (13096149 bytes overall) [11824632 bytes received at 60023 bytes/sec], 1731378 bytes transferred using HTTP compression in 79 files, ratio 22%, 3.9 requests per connection
 
 (5 errors, 2 warnings, 0 messages)
->>>>>>> e258f8d3d969932ce563ad7d9bdaf43e0e9ecb42
 
